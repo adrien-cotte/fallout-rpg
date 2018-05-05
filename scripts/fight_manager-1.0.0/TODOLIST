@@ -1,0 +1,13 @@
+README.txt:
+    - Add GUI explanation
+data:
+    - Add Rat
+    - Add Goule
+    - Add Wolf
+    - Add Coyote
+    - Add Radscorpion
+    - Add Molerat
+    - Add Radcafard
+    - Add Gecko
+weapons:
+    - Add Monsters natural weapons

@@ -1,0 +1,44 @@
+Ce pack Winrar comprend mes différentes modifications et adaptations pour le jeu de rôle papier Fallout RPG
+développé par Lionel Tardy et Marc Bettex.
+J'encourage toute modification, adaptation, distribution de ces fichiers (évidemment dans un cadre gratuit, tout comme
+le jeu de rôle original).
+
+Ces différents fichiers comprennent :
+
+- Une nouvelle feuille de personnage à imprimer en pdf avec un système de compétences/connaissances réadaptées 
+(certaines compétences et connaissances modifiées, supprimées ou ajoutées. Un système différent pour distribuer
+les points de compétence et les connaissances à chaque gain de niveau, pour rendre les joueurs un peu moins Grosbills, et limiter l'acquisition 
+de trop de connaissances différentes à chaque passage de niveau).
+Un grand merci à Drenark de Generation-Fallout pour sa version du pdf refaite toute propre !
+
+- Un écran de MJ refait avec quelques ajouts bien utiles (création de Drenark)
+
+- Un rééquilibrage complet, à imprimer en pdf, des armes et armures. Elles ont toutes modifiées sur le nombre de dégâts, de dés à jeter, + des
+modifications sur les types de dégâts (dégâts électriques/iem, certains dégâts ignorant la CA...Etc...)
+
+- Un nouveau bestiaire (V2), très complet, et le plus exhaustif possible, avec la plupart des créatures de l'univers fallout (1,2 et tactics principalement)
+mais aussi des mutants, robots, et archétypes d'adversaires humains de différents niveaux (souffre-douleur, larbin, soldat, vétéran, gradés/forces spéciales)
+Dans la V2, Tout a été retouché, les monstres sont plus agressifs et dangereux, il y a en plusieurs versions de chaque (des bébés, des adultes, des faibles, des forts...) et
+une variété encore plus conséquente qu'avant.
+
+- Un document comprenant quelques recettes de craft (pour créer des objets, munitions, armes, à partir de pièces de récupération)
+
+- Une campagne complète (V2), se déroulant en Arksansas, avec une description complète des différents lieux à visiter dans cet Etat. 
+La V2 comprend entre autres une correction de fautes, ajoute d'autres idées/possibilités de fin de scénario, des maps plus détaillées pour la base de la CRD avec une option supplémentaire pour 
+s'infiltrer, et plein de petits détails disséminés un peu partout, histoire que le challenge soit à la hauteur.
+
+- Une autre campagne intitulée "Des bombes et des tombes", se déroulant aussi en Arksans et pouvant être jouée seule ou à la suite de la campagne "86 Milliards de neurones".
+Elle se déroule en 2248 en Arkansas.
+
+
+
+Ces fichiers sont prévus pour être utilisés ensemble. C'est à dire que le rééquilibrage des armes/armures, le bestiaire, et la feuille de personnage avec le nouveau
+système de gain de compétences/connaissances par niveau ne peuvent être équilibrés que si le MJ les utilise tous ensemble.
+
+Il y a ici des centaines d'heures de travail, j'ai tenté de faire de mon miexu pour équilibrer tout ça au maximum et pour offrir une expérience aux MJ et aux PJ qui soit
+la plus simple et agréable possible. J'espère que cela sera utile au plus grand nombre.
+
+Extaz93
+extaz93@gmail.com
+
+ 

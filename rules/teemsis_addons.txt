@@ -1,0 +1,49 @@
+== COMBAT
+
+- Si un ennemi vient au CAC, il vous "bloque" au CAC. Il faut alors réussir un test de corps à corps (3 pa) pour se désengager.
+
+== ARMES
+
+- 1 case = 2m
+- Portée max des armes hors combat sans malus (plus facile de tirer sans la pression du combat)
+- Fusils longue portée (ex: Rangemaster) : +20% précision à distance (non cumulable avec x1.5 au CAC)
+- Revolers : +1d6 sinon il n'ont aucun intérêt face aux armes de poing
+
+== RESSOURCES
+
+- Utiliser des vraies capsules de bouteille (c'est plus fun !) :
+	- Diviser par 100 le prix des armes (1 cap = 100$)
+	- Les objets dont le prix est inférieur à 100$ coûtent 1 cap, mais leur revente est impossible (ex : couteau 40$, 1 cap à l'achat, 0 cap à la vente). Les objets qui coûtent moins de 200$ (150$, 175$ etc ...) ne sont vendable 1 cap que sur un test de troc réussi.
+- Revente = prix / 2
+- Survie :
+	- Nourriture (pion jaune) : 1 journée de nourriture pour 1 personne
+	- Eau (pion bleu) : 1 journée d'eau pour 1 personne
+	- Prix : 1 caps
+	- Conservation : 10 jours (cela signifie d'un joueur ne peut transporter plus de 10 ressources d'un même type sur lui)
+
+== DIFFICULTES
+
+- Score à atteindre pour réussir des intérations (crochetage, diplomatie etc ...)
+	- Facile 	25 %
+	- Moyen 	50 %
+	- Difficile 	75 %
+	- Expert	100 %
+
+== METIERS
+
+Chasseur :
+	Pré-requis : 7 PE
+	- 20% armes
+	- 20% pièges
+	- 10% perception
+	- 10% survie
+	Atout : Chien sauvage
+	Connaissances : vue +1, ouïe +1, odorat +1, armes à feu, armes à deux mains, pistage, dressage
+
+== CONNAISSANCES
+
+- Rentables à partir du moment où une compétence a atteint 100% (donc au début le rang un suffit largement)
+- Les bonus des compétences sont cumulatifs (exemple : tir fusil = compétence arme lég./moy + connaissance arme à feu + connaissance arme à deux mains)
+- Les connaissances peuvent donner des bonus au-delà du %. Par exemple une bonne compétence en arme ne signifie pas une bonne connaissance des armes...
+Un médecin très compétent mais sans connaissances ne pourra pas examiner un corps ou réaliser un bon diagnostic (par contre si quelqu'un lui dit comment soigner une personne, il saura très bien le faire!)
+=> Il faut distinguer connaissance et compétence ! Dans la plupart des cas elles vont de mèche, mais il arrive que seul la connaissance soit utile (ex: conversation entre médecins)

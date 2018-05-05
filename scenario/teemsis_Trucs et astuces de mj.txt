@@ -1,0 +1,9 @@
+-Faire tirer aux joueur les jets de perception/chance/etc... hors de combat de manière caché pour ne pas qu'ils sachent si Echec ou Réussite (meilleure immersion)
+	- Jet de diplomatie/troc : demander de jeter un dé (caché), ne pas lui dire si il a réussi ou échoué, puis commencer la conversation en 
+	orientant la conversation vers la fin ineluctable.
+-Expliquer aux joueur que le troc et la corruption sont monnaie courrante
+-Les joueurs préfèrent que l'aventure vienne à eux ("Qu'est ce que vous faites?" "Bah che pas... on peut faire quoi?" -> ce n'est pas amusant !)
+-Si il y a un "blanc", il faut aider les joueurs sinon ils vont s'ennuyer
+-Pas de jet de dés intempestif ("Je peux manger des raviolis?" "Jette un dé pour savoir si tu arrive à ouvrir la boîte" -> ce n'est pas amusant !)
+-Rappeler aux joueurs de ne pas sous-estimer les jets de chance/perception/survie/etc... qui peuvent les sauver dans certaines situations
+-Pas de tank/heal/dps, mais ils faudrait quand même équilibrer le groupe pour qu'il puisse se battre, faire de la diplomatie et soigner les blessés

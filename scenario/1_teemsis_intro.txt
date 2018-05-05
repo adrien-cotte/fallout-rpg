@@ -1,0 +1,32 @@
+Vous avez passé votre vie à travailler dans les champs et à réaliser des tâches ingrates en attendant ce jour.
+Aujourd'hui, vous quittez Klamath pour vous rendre dans une ville meilleure : la cité de l'abri.
+Vous avez une occasion en or de devenir citoyen de la cité de l'abri. En effet, cette ville à l'ordinaire si fermée
+a décidé d'acceuillir les familles qu'ils jugeront utiles parmis les citoyens.
+En contrepartie, le prix à payer est fort. Toutes les économies de votre vie ont servi à payer le voyage.
+
+La caravane qui est venue chercher les volontaires, se compose de plusieurs familles respectables.
+Vous avez avec vous votre femme/mari et vos enfants.
+
+Vous partez plein d'espoir à la conquête de l'Est : la cité de l'abri.
+Vous en avez pour cinq jours de voyage. Vous passerez d'abord par la fosse (sans vous y attarder car les lieux de sont pas sûr),
+puis par le petit village de Modoc, et enfin vous arriverez à la cité de l'abri.
+
+Après plusieurs heures de transport, vos enfant commcent à s'agiter.
+Ils veulent faire une pause.
+Les vieillards ainsi que la plupart des femmes souhaitent également s'arrêter.
+L'ambiance est très différente de d'habitute. Vous riez, vous vous sentez amoureux comme au premier jour.
+Vous remerciez la vie elle-même.
+
+Vos enfants sont partis courir pour se dégourdir les jambes.
+Vous vous allongez et vous mettez à rêver de votre prochaine vie.
+
+Sans vous en rendre compte, la nuit commence à tomber.
+Faut-il camper ici, ou avancer de nuit vers La Fosse ? (premier choix)
+
+Camper ici :
+-> attaque de pillards
+#TODO
+
+Avancer de nuit :
+-> vous arrivez à la fosse sans encombre
+#TODO
